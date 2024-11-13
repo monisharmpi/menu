@@ -21,3 +21,21 @@
     background-color:aqua;
     color:chocolate;
 }
+.container{
+    display: flex;
+}
+.Box1{
+    width: 150px;
+    height: 150px;
+    background-color: cornflowerblue;
+}
+.Box2{
+    width: 150px;
+    height: 150px;
+    background-color:aqua;
+}
+.Box3{
+    width: 150px;
+    height: 150px;
+    background-color:blueviolet;
+}
