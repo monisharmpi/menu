@@ -1,4 +1,55 @@
-table{
-    border-color: rgb(139, 31, 241);
-    background-color: rgba(254, 208, 147, 0.881);
+.Class{
+    width: 500px;
+    height: 100px;
+    display: flex;
+}
+.AB{
+    width: 100px;
+    height: 100px;
+    background-color: indianred:
+}
+.BC{
+    width: 100px;
+    height: 100px;
+    background-color: cadetblue:
+}
+.CD{
+    width: 100px;
+    height: 100px;
+    background-color: lightgreen:
+}
+.DE{
+    width: 100px;
+    height: 100px;
+    background-color: chocolate;
+}
+.EF{
+    width: 100px;
+    height: 100px;
+    background-color: cornflowerblue;
+}
+#tornedo{
+    width: 200px;
+    height: 60px;
+    background-color: blue;
+}
+#sunami{
+    width: 200px;
+    height: 60px;
+    background-color: orange;
+}
+#flood{
+    width: 200px;
+    height: 60px;
+    background-color: lime;
+}
+#earthquake{
+    width: 200px;
+    height: 60px;
+    background-color: coral;
+}
+#drought{
+    width: 200px;
+    height: 60px;
+    background-color: darkmagenta;
 }
