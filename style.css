@@ -1,21 +1,43 @@
 .Header{
-    width:350px ;
-    height:60px ;
-    background-color: blueviolet;
+    width:400px ;
+    height:70px ;
 }
-
-.Menu{
-    width:350px ;
-    height:30px ;
-    background-color: rgb(245, 73, 10);
+.logo{
+    width: 100px;
+    height: 70px;
+    background-color: cornflowerblue;
+    float: left;
+}
+.banner{
+    width: 300px;
+    height: 70px;
+    background-color: orchid;
+    float: right;
 }
 .Maincontent{
-    width:350px ;
+    width:600px ;
     height:200px ;
-    background-color: rgb(253, 146, 104);
+}
+.sideber1{
+    width: 120px;
+    height: 200px;
+    background-color: tomato ;
+    float: left;
+}
+.content{
+    width: 160px;
+    height: 200px;
+    background-color: lightsalmon;
+    float:left;
+}
+.sideber2{
+    width: 120px;
+    height: 200px;
+    background-color: darkseagreen;
+    float: left;
 }
 .Footer{
-    width:350px ;
+    width:400px ;
     height: 30px;
-    background-color: rgb(232, 10, 128);
+    background-color: deeppink;
 }
