@@ -1,55 +1,21 @@
-.Class{
-    width: 500px;
-    height: 100px;
-    display: flex;
+.Header{
+    width:350px ;
+    height:60px ;
+    background-color: blueviolet;
 }
-.AB{
-    width: 100px;
-    height: 100px;
-    background-color: indianred:
+
+.Menu{
+    width:350px ;
+    height:30px ;
+    background-color: rgb(245, 73, 10);
 }
-.BC{
-    width: 100px;
-    height: 100px;
-    background-color: cadetblue:
+.Maincontent{
+    width:350px ;
+    height:200px ;
+    background-color: rgb(253, 146, 104);
 }
-.CD{
-    width: 100px;
-    height: 100px;
-    background-color: lightgreen:
-}
-.DE{
-    width: 100px;
-    height: 100px;
-    background-color: chocolate;
-}
-.EF{
-    width: 100px;
-    height: 100px;
-    background-color: cornflowerblue;
-}
-#tornedo{
-    width: 200px;
-    height: 60px;
-    background-color: blue;
-}
-#sunami{
-    width: 200px;
-    height: 60px;
-    background-color: orange;
-}
-#flood{
-    width: 200px;
-    height: 60px;
-    background-color: lime;
-}
-#earthquake{
-    width: 200px;
-    height: 60px;
-    background-color: coral;
-}
-#drought{
-    width: 200px;
-    height: 60px;
-    background-color: darkmagenta;
+.Footer{
+    width:350px ;
+    height: 30px;
+    background-color: rgb(232, 10, 128);
 }
