@@ -1,43 +1,42 @@
 .Header{
     width:400px ;
     height:70px ;
+    display: flex;
 }
 .logo{
     width: 100px;
     height: 70px;
-    background-color: cornflowerblue;
-    float: left;
+    background-color: darkorange;
 }
 .banner{
     width: 300px;
     height: 70px;
-    background-color: orchid;
-    float: right;
+    background-color: cadetblue;
 }
+
 .Maincontent{
     width:600px ;
     height:200px ;
+    display: flex;
 }
 .sideber1{
     width: 120px;
     height: 200px;
-    background-color: tomato ;
-    float: left;
+    background-color: indianred;
 }
 .content{
     width: 160px;
     height: 200px;
-    background-color: lightsalmon;
-    float:left;
+    background-color: rgb(238, 190, 117);
 }
 .sideber2{
     width: 120px;
     height: 200px;
     background-color: darkseagreen;
-    float: left;
 }
+
 .Footer{
     width:400px ;
     height: 30px;
-    background-color: deeppink;
+    background-color: cornflowerblue;
 }
